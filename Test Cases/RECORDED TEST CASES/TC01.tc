@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SIMPLE NAVIGATION OF A WEBSITE</description>
+   <name>TC01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>894d8145-4614-4d15-8003-e422a076245c</testCaseGuid>
+</TestCaseEntity>
