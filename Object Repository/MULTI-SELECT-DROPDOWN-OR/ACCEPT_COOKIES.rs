@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ACCEPT_COOKIES</name>
+   <tag></tag>
+   <elementGuidId>f724011c-77eb-43c1-86a3-9131030d2019</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='accept_cookies_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#accept_cookies_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7ce22117-93b8-4453-bf45-7f981a21ffc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary ms-1</value>
+      <webElementGuid>376f5954-bdac-44a7-a130-525d686cb1d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>accept_cookies_btn</value>
+      <webElementGuid>e91a8d77-cd79-4c3a-86e5-f877c9a766d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>accept_all_cookies</value>
+      <webElementGuid>a76abe2d-36a4-4939-93a9-b6ab5882180d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mdb-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>8517c786-61cf-4d73-8b0b-715a2f4738cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              ACCEPT COOKIES
+            </value>
+      <webElementGuid>9def306c-6679-4c8b-a5f5-24eeb9c38e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accept_cookies_btn&quot;)</value>
+      <webElementGuid>c85adc90-2951-421b-a52c-3ef285ace6d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='accept_cookies_btn']</value>
+      <webElementGuid>396f4ef8-78f1-42d2-97fa-d5ca24d521a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accept_cookies_modal']/div/div/div[2]/button[2]</value>
+      <webElementGuid>ec8dc061-883f-46ab-b7bb-17d5c8d0aac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage'])[1]/following::button[1]</value>
+      <webElementGuid>548ae629-07be-45f4-aa59-17ca979779cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[2]/following::button[2]</value>
+      <webElementGuid>ad8e0a22-d8fd-4b94-af67-57d01681ec69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage cookie settings'])[1]/preceding::button[1]</value>
+      <webElementGuid>b766cc40-a5b0-468b-b348-33cf52e23c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='opt-out of all ad-related cookies with a single action.'])[1]/preceding::button[1]</value>
+      <webElementGuid>173888ce-1905-4c76-928c-5c239a3d025a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACCEPT COOKIES']/parent::*</value>
+      <webElementGuid>a9e378dd-bd86-4165-8b28-fe862d0c6df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/button[2]</value>
+      <webElementGuid>bb2c10c8-588b-4002-9a5a-97ef5f2097fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'accept_cookies_btn' and @name = 'accept_all_cookies' and (text() = '
+              ACCEPT COOKIES
+            ' or . = '
+              ACCEPT COOKIES
+            ')]</value>
+      <webElementGuid>15c81024-d229-495f-b21a-4b46324d58ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
