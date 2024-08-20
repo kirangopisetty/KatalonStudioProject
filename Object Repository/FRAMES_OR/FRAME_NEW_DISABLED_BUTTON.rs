@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SEARCH-TEXTBOX</name>
+   <name>FRAME_NEW_DISABLED_BUTTON</name>
    <tag></tag>
-   <elementGuidId>2dea1390-0400-4b0e-b44f-973e43bf8b4a</elementGuidId>
+   <elementGuidId>8f5957ca-e4e5-4ac9-8b13-a326b637f7fa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='searchqueryId']</value>
+         <value>//*[@id=&quot;iframeResult&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

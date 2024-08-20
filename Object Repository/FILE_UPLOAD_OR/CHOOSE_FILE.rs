@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SEARCH-TEXTBOX</name>
+   <name>CHOOSE_FILE</name>
    <tag></tag>
-   <elementGuidId>2dea1390-0400-4b0e-b44f-973e43bf8b4a</elementGuidId>
+   <elementGuidId>95a48842-d942-4d6b-88fe-4717d7c34028</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='searchqueryId']</value>
+         <value>//input[@id='fileToUpload']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

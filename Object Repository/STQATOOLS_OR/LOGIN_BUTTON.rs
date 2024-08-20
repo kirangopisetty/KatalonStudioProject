@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>SEARCH-TEXTBOX</name>
+   <name>LOGIN_BUTTON</name>
    <tag></tag>
-   <elementGuidId>2dea1390-0400-4b0e-b44f-973e43bf8b4a</elementGuidId>
+   <elementGuidId>72103f49-d6ea-4a31-9044-79748f8278a0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='searchqueryId']</value>
+         <value>//button[@id='login-button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
