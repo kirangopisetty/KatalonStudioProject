@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC52</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67f0af03-86a3-4bd9-ae85-e55277778547</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ac7c5ae-67c0-4811-b4d1-8af6a9f87d05</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92abf0ff-7100-487a-aab5-da86d0a30732</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea8b72bb-58b1-42fd-beb5-c0bbcc329ca8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dab5d5f7-a394-4e5a-a307-3f4679a220e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b39da47-1c28-4526-b282-60cec9da885c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>5ac7c5ae-67c0-4811-b4d1-8af6a9f87d05</id>
+      <masked>false</masked>
+      <name>varUN</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>92abf0ff-7100-487a-aab5-da86d0a30732</id>
+      <masked>false</masked>
+      <name>varPWD</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>ea8b72bb-58b1-42fd-beb5-c0bbcc329ca8</id>
+      <masked>false</masked>
+      <name>varFacility</name>
+   </variable>
+   <variable>
+      <defaultValue>'30/08/2024'</defaultValue>
+      <description></description>
+      <id>dab5d5f7-a394-4e5a-a307-3f4679a220e2</id>
+      <masked>false</masked>
+      <name>varVisitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Body pains &amp; fever issues'</defaultValue>
+      <description></description>
+      <id>6b39da47-1c28-4526-b282-60cec9da885c</id>
+      <masked>false</masked>
+      <name>varComment</name>
+   </variable>
+</TestCaseEntity>

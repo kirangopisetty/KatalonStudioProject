@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>PROD-ENV</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'PROD-COMPUTER'</initValue>
+      <name>computerName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2024-12-12'</initValue>
+      <name>introducedDate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2030-12-12'</initValue>
+      <name>discontinuedDate</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

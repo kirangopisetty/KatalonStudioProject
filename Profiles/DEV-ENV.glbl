@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>DEV-ENV</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'DevComputer'</initValue>
+      <name>computerName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2024-01-01'</initValue>
+      <name>introducedDate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2030-01-01'</initValue>
+      <name>discontinuedDate</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

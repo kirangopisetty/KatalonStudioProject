@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>healthcareInternalTestData</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>dba21421-90ca-440d-8171-7252afd1083f</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>John+Doe ThisIsNotAPassword Hongkong+CURA+Healthcare+Center 28%2F09%2F2024 Hongkong+Fever</data>
+   <data>John+Doe ThisIsNotAPassword Seoul+CURA+Healthcare+Center 30%2F09%2F2024 Seoul+Bodypains</data>
+   <data>John+Doe ThisIsNotAPassword Tokyo+CURA+Healthcare+Center 25%2F09%2F2024 Tokyo+Vaccinations</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>varUN</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>varPWD</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>varFacility</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>varVisitDate</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>varComment</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
