@@ -23,6 +23,8 @@ WebUI.openBrowser('')
 'Takes the user to the specified URL'
 WebUI.navigateToUrl('https://www.ekhartyoga.com/')
 
+WebUI.maximizeWindow(FailureHandling.CONTINUE_ON_FAILURE)
+
 'Left click on the link specified'
 WebUI.click(findTestObject('YOGA_OR/CLASSES-LINK'))
 
@@ -54,7 +56,7 @@ WebUI.click(findTestObject('YOGA_OR/SIGN-IN-BUTTON'))
 WebUI.verifyTextPresent('Invalid username or password', false)
 
 'Deletes all the incoming cookies received from the web application visited by the user'
-WebUI.deleteAllCookies()
+WebUI.deleteAllCookies(FailureHandling.OPTIONAL)
 
 'Close the browser, which is opened by Katalon Studio in the step#1'
 WebUI.closeBrowser()
